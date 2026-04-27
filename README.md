@@ -30,7 +30,8 @@ From an operational standpoint, this supports **prioritizing partial reopening s
 
 *NOTE: This analysis is based on a synthetic dataset constructed to replicate real operational conditions observed during disruption scenarios.*
 
-*All data utilized in this project does NOT contain any confidential, proprietary, or personally identifiable information.*
+All data utilized in this project does NOT contain any confidential, proprietary, or personally identifiable information.
+
 ---
 
 ## Full Analysis.
