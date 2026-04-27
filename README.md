@@ -30,7 +30,7 @@ From an operational standpoint, this supports **prioritizing partial reopening s
 
 *NOTE: This analysis is based on a synthetic dataset constructed to replicate real operational conditions observed during disruption scenarios.*
 
-All data utilized in this project does NOT contain any confidential, proprietary, or personally identifiable information.
+*All data utilized in this project does NOT contain any confidential, proprietary, or personally identifiable information.*
 
 ---
 
@@ -38,4 +38,4 @@ All data utilized in this project does NOT contain any confidential, proprietary
 
 The complete methodology, data preparation, modeling approach, and detailed results are available in the notebook:
 
-[View Notebook](./Predictive_Lost_Sales_V6.ipynb)
+[View Notebook](https://github.com/adriana-guillen/saltillo-disruption-forecasting/blob/main/saltillo_disruption_forecasting.ipynb)
