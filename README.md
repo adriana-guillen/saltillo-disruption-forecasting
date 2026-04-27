@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Executive Summary.
+## Executive Summary.
 
 This analysis quantifies the financial impact of a major operational disruption in fuel stations in Saltillo, where road closures reduced customer accessibility and directly affected revenue generation.
 
